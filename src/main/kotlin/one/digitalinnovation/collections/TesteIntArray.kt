@@ -9,6 +9,7 @@ fun main() {
     values[3] = 3
     values[4] = 2
 
+    //maneiras diferentes de interar
     for (valor in values){
         println(valor)
     }
